@@ -8,16 +8,16 @@ https://public.tableau.com/views/SampleSalesWork_16786804777130/SalesDashboard2?
 ## Objective
 
 In this project, I wanted to learn more about how to do SQL. Here is a rundown of what I've done:
-1. Getting the data
+1. Getting the data (I am not sure where I've found it but I have reasons to believe it is from Kaggle)
 3. Compliling various queries that showcase what are we looking at. Along with creating tables to save on Tableau to do data analysis.
-4. I later created some tables that I defined in order to find out which customers are the most loyal.
+4. Load the new RFM data into Tableau in order to do some nice data visuals. 
 
 ## Dataset
 
-I've used a dataset that I've found in Kaggle. I was unable to extract the JSON file from the Pokemon.apk website, nor do data mining from a wiki page or another website containing all Pokemon. 
+As mentioned before, I have no idea where I've gotten my data but I think I got it from Kaggle.
 
-More info about the dataset can be found here:
-- Website: https://www.kaggle.com/datasets/abcsds/pokemon?datasetId=121&sortBy=dateCreated
+(I will send the link to the dataset once I've find the origins from it)
+
 
 ## Discovery
 
