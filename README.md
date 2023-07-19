@@ -7,11 +7,10 @@ https://public.tableau.com/views/SampleSalesWork_16786804777130/SalesDashboard2?
 
 ## Objective
 
-In this project, I wanted to see if I can predict if a one can predict a Legendary Pokemon based on its stats, and if there's a specialization in each Pokemon type. :
-1. Getting the data via Kaggle, and loading it in Google Colab (so I can access it on multiple devices).
-3. Creating various data frames in order to group them based on types and legendary in order to do Exploratory Data Analysis.
-4. I then used statistical techniques such as ANOVA, K-Means clustering, and others to answer my questions about legendary prediction and specialization.
-5. I later used different machine-learning techniques to predict a Pokemon's legendary status and ask other questions that interested me.
+In this project, I wanted to learn more about how to do SQL. Here is a rundown of what I've done:
+1. Getting the data
+3. Compliling various queries that showcase what are we looking at. Along with creating tables to save on Tableau to do data analysis.
+4. I later created some tables that I defined in order to find out which customers are the most loyal.
 
 ## Dataset
 
